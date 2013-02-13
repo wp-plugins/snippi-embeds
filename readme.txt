@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Embed Snippi\'s from snippi.com into your blog with this handy shortcode
+Embed Snippi's from snippi.com into your blog with this handy shortcode
 
 == Description ==
 
