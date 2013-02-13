@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Snippi Shortcode
-Version: 1.1
+Version: 1.0
 Plugin URI: http://www.halgatewood.com/snippi-embed
 Description: Embed Snippi\'s from snippi.com into your blog with this handy shortcode
 Author: Hal Gatewood
