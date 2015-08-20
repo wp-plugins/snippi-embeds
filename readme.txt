@@ -1,7 +1,7 @@
 === Snippi Shortcode ===
 Contributors: halgatewood
 Donate link: http://halgatewood.com/snippi-embed/
-Tags: shortcode, snippi, code, embed, pre, 
+Tags: adopt-me, shortcode, snippi, code, embed, pre 
 Requires at least: 3.5
 Tested up to: 4.3
 Stable tag: trunk
